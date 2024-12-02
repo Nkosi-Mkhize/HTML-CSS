@@ -1,0 +1,80 @@
+
+  <style>
+    .Uber-butto{
+      background-color: black;
+      color: white;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-left: 16px;
+      padding-right: 16px;
+      border: none;
+    }
+    .Uber-butto:hover{
+      background-color: red;opacity: 0.5;cursor: pointer;
+    }
+    .Amazon-button{
+      background-color: rgba(207, 207, 28, 0.877);
+      color: rgb(0, 0, 0);
+      border: none;
+      border-radius: 30px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-left: 16px;
+      padding-right: 16px;
+      height: 30px;
+    }
+    .Amazon-button:hover{
+      background-color: red;opacity: 0.5;cursor: pointer;
+    }
+    .Github-button{
+      background-color: rgb(24, 155, 24);
+      color: white;
+      border-radius: 20px;
+      border: none;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-left: 16px;
+      padding-right: 16px;
+    }
+    .Github-button:hover{
+      background-color: red;opacity: 0.5;cursor: pointer;
+    }
+    .bootstrap-button{
+      background-color:purple;
+      color: white;
+      border-radius: 20px;
+      border: none;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-left: 16px;
+      padding-right: 16px;
+    }
+    .bootstrap-button:hover{
+      background-color: red; opacity: 0.5;cursor: pointer;
+    }
+    .download-button{
+      color: black;
+      background-color: white;
+      border-radius: 10px;
+      border: none;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-left: 16px;
+      padding-right: 16px;
+      background-color: gray;
+    }
+    .download-button:hover{background-color: red; opacity:0.5;cursor: pointer;}
+    .LinkedIn-button{
+      background-color:rgb(7, 58, 197);
+      color: rgb(221, 196, 196);
+      border-radius: 20px;
+      border: none;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-left: 16px;
+      padding-right: 16px;
+  }
+  .LinkedIn-button:hover{
+    background-color: red; opacity: 0.5;cursor: pointer;
+  }
+  </style>
